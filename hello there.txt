@@ -1,2 +1,2 @@
 the test is complete
-part 2
+part beans
